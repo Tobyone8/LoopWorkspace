@@ -219,6 +219,7 @@ jobs:
           override_sens \
           now_line \
           lnl_icon \
+          watch_title \          
           meal_days \
           profiles \
           remote_window
