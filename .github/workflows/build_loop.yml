@@ -219,10 +219,15 @@ jobs:
           override_sens \
           now_line \
           lnl_icon \
-          watch_title \          
+          watch_title \
           meal_days \
           profiles \
+          basal_lock \
+          negative_insulin \
           remote_window
+
+          # the final customization listed above CANNOT have a continuation character
+          # more customizations can be pasted after this line
 
           # the final customization listed above CANNOT have a continuation character
           # more customizations can be pasted after this line      # Patch Fastlane Match to not print tables
